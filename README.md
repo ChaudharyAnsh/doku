@@ -5,4 +5,3 @@ Due to poor internet connection and receiving partial data from the TCPP/IP requ
 Experience gained - 
  * web sockets
  * communication protocols
- * fast implementation from reading articles...
